@@ -14,8 +14,8 @@
   [
     {
       "matches": [ "http://*/*", "https://*/*"],
-      "js": ["jquery.min.js","initialize.js","js.js"],
-      "css": ["css.css"]
+      "js": ["scripts.js"],
+      "css": ["styles.css"]
     }
   ],
   "web_accessible_resources":["resources/*"]
